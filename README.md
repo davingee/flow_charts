@@ -1,2 +1,2 @@
-An Example of a start-ups flow chart
+An example of a start-ups flow chart.
 ===========
